@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case and condition of R. Titchbourn late alderman, and now prisoner in the Tower of London. Presented to the consideration and compassion of his fellow citizens.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94342</idno>
+            <idno type="STC">Wing T1147</idno>
+            <idno type="STC">Wing C847AB</idno>
+            <idno type="STC">ESTC R2605</idno>
+            <idno type="EEBO-CITATION">11950402</idno>
+            <idno type="OCLC">ocm 11950402</idno>
+            <idno type="VID">171688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94342)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171688)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 517:24 or 2587:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case and condition of R. Titchbourn late alderman, and now prisoner in the Tower of London. Presented to the consideration and compassion of his fellow citizens.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold at the Sign of the Printing-Press in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>This item appears at reel 517:24 as Wing number T1147 (cancelled in Wing 2nd ed.) and at reel 2587:2 as Wing (2nd ed.) C847AB.</note>
+                  <note>Reproduction of originals in Union Theological Seminary Library and the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tichborne, Robert, --  Sir, d. 1682.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171688:1"/>
+            <!-- PDF PAGE 15 -->
+            <pb facs="tcp:171688:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 15 -->
+            <p>THE Caſe and Condition OF R. Titchbourn Late Alderman, and now Priſoner in the Tower of LONDON.</p>
+            <p>Preſented to the Conſideration and Compaſ<g ref="char:EOLhyphen"/>ſion of his Fellow Citizens.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold at the Sign of the <hi>Printing-Preſs</hi> In St. <hi>Paul</hi>'s Church-yard. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:171688:2"/>
+            <!-- PDF PAGE 16 -->
+            <pb n="3" facs="tcp:171688:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>THE CONDITION OF <hi>ROBERT TITCHBO<g ref="char:V">Ʋ</g>RN.</hi> Late Alderman, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Here is a difference between bearing and enduring of Miſery: The heart of a man will maintain it ſelf againſt the ſudden violent effects of Fortune, but who can hold out againſt endleſſe Calamities? where nothing is left free to a man but his Thoughts, whoſe dreadful reſults preſent nothing but Death and Horrour, injured Humanity it ſelf could not chooſe but relent. Nevertheleſſe to make any Apologies of the crime, or to excuſe or exte<g ref="char:EOLhyphen"/>nuate that Guilt under which he ſuffers, would be ſo far from compaſſionating of him, that it would add new weight to that burden, which his long contrition and exerciſe of Repentance, may in ſome meaſure have aleviated. On the other ſide to aggravate the Flagitiouſneſſe of that fact,
+<pb n="4" facs="tcp:171688:3"/>
+               <!-- PDF PAGE 17 -->
+and inſult upon the miſeries which he undergoes, is no <hi>Engliſh,</hi> but ſome ſalvage <hi>Barbariſme,</hi> if we ſhall impartially conſider him throughout and in all his ſtations, an accompt whereof you ſhall ſee in this enſuing Paper.</p>
+            <p>He was born of an honeſt and gentile Parentage in this City, a Linnen Draper, anciently deſcen<g ref="char:EOLhyphen"/>ded from a worſhipful Family, well eſteemed and honoured, no picque, blemiſh, or ſtain upon them, his Growth and Education advancing him alike to be ſoon a man, which put him very early into action. It was then the untimely fate of the <hi>London</hi> youths generally to arm themſelves in de<g ref="char:EOLhyphen"/>fence of the pretended Reformation, ſo Epide<g ref="char:EOLhyphen"/>mical was that hot feavour of their bloods, that ſcarce a Houſe was left untainted—<hi>Dulce Bel<g ref="char:EOLhyphen"/>lum inexpertis.</hi>—Amongſt the reſt the aptneſſe and proclivity of this perſon to the War was ſoon taken notice of, and accordingly a Command conferred on him of Captain over a Foot Com<g ref="char:EOLhyphen"/>pany in the Trained Bands. This he diſcharged abroad with valour and diſcretion, and at home, with Courteſie, his Enemies bearing him wit<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>During the Warre he aſcended the ſeverall ſteps of Military Honours in order, made Collonel of a Regiment, and for a Time Lieu<g ref="char:EOLhyphen"/>tenant of the <hi>Tower,</hi> not taxed by them whom he ſerved with any baſeneſſe or deficiency.</p>
+            <p>The Objection is not worth the anſwering, that he took up Arms againſt the King. His Grace and
+<pb n="5" facs="tcp:171688:3"/>
+               <!-- PDF PAGE 17 -->
+Mercy to others as deeply engaged againſt him, (ſave in that matter, with which we meddle not) having refelled and confuted that Charge: and it might be well added for a plea for mercy, what the moſt learned and Right Honourable Lord Chancellour ſaid to the Parliament in preſ<g ref="char:EOLhyphen"/>ſing the Act of Oblivion, that there was a gene<g ref="char:EOLhyphen"/>ral Malignant Influence of the Planets, which of late years had infected the <hi>Engliſh</hi> Air. Conſider<g ref="char:EOLhyphen"/>ed therefore in this Caſe as a Fellow Citizen, a Gentleman, and a perſon that behaved himſelf with Gallantry,—<hi>Et Caeſar in hoſte probat.</hi>—Com<g ref="char:EOLhyphen"/>miſeration may well take up the room of paſſion, and ungoverned and blind revenge.</p>
+            <p>What he did afterwards in proceſſe of time, and in purſuance of thoſe Commands to which he had ingaged himſelf by a heedleſſe zeal and blood not yet cooled from the boyling fury of the War, and in an unexperienced youth, miſguided by the fallacious ſhews of Honour and Greatneſſe, by thoſe who had the Power and Sword in their hands, he hath the ſufficient regret thereof.</p>
+            <p>Ambition is a Vice, moſt commonly a danger into which men from the brink of their deſire, once out of the bounds of their duty, are frequently precipitated. And therefore the ordinary fate of aſpiring men, and the conſtant practiſes of it uſed in all Times and Governments, cannot but take off the Envy of that particular; though 'tis not denyed, but that ſuch Vain glory Hood-wink'd him into the deſtructive buſineſſe againſt the
+<pb n="6" facs="tcp:171688:4"/>
+               <!-- PDF PAGE 18 -->
+King; yet his moſt humble Submiſſion and Con<g ref="char:EOLhyphen"/>feſſion of it at his Tryal, referring it in part to his want of age and Experience, cannot but merit a favourable and charitable conſtruction at the hands of all men, whoſe minds (before ſtirred and provoked) are now laid by the calm and ſe<g ref="char:EOLhyphen"/>renity of His Majeſties Government.</p>
+            <p>That fatal Buſineſſe of our late Soveraign, is a String not to be touched upon; no ſooner you ſtrike upon it, but like ſympathetical Muſick, blood muſt follow blood. Nothing therefore can be ſaid to him here as to impunity, further then Chriſtianly to wiſh, that if it were poſſible and expedient, the juſtice of God and the Kingdom, might be ſatisfied, and that Guilt expiated, with<g ref="char:EOLhyphen"/>out the ſevereſt inflictions of the Law upon him, as to Life.</p>
+            <p>We have hitherto ſeen him at the worſt, let us conſider him next as a Magiſtrate, and that more eminent in the exerciſe of the Civil power, then formerly in the Military.</p>
+            <p>He was made Sheriff in the year 1650. advanced before his Time to that Dignity, to promote the Intereſt of the then Free State, into which he had waded ſo deep before. No marvel therefore if he ſo ſtickled for it, and by ſo doing incurred the general hatred of moſt men; and if we do impartially conſider his actions then as one inga<g ref="char:EOLhyphen"/>ged in a faction to which he had always adhered, and was embarqued in the ſame, danger and haz<g ref="char:EOLhyphen"/>zards, it will not much move any mans Stomach againſt him.</p>
+            <p>
+               <pb n="7" facs="tcp:171688:4"/>
+               <!-- PDF PAGE 18 -->During his Seſſion and Continuance in the Court of Aldermen, betwixt his Shrievalty and Maioralty, he performed the office of a good Citizen, to Common juſtice. Many can bear him witneſſe of much uprightneſſe and integrity manifeſted by him in private buſineſſes, the de<g ref="char:EOLhyphen"/>ciſion whereof being referred to Committees of Aldermen (of which very ſeldome but he was one through the ſenſe that Court had of his abi<g ref="char:EOLhyphen"/>lities) he always juſtly and impartially accommo<g ref="char:EOLhyphen"/>dated; and Envy her ſelf cannot ſpeak leſſe, but Gratitude—would ſpeak more.</p>
+            <p>We will take a full view of him, in this his next Dignity, the Supreme Magiſtracy of the City, as Lord Maior of <hi>London,</hi> and we uſe to ſay <hi>Magi<g ref="char:EOLhyphen"/>ſtratus indicat virum,</hi> but here <hi>Vir indicat Magiſtra<g ref="char:EOLhyphen"/>tum,</hi> very few perſons that arrived at this Honor, after a full ripeneſſe of years, and digeſtion of a long obſervation of cuſtome and manners, gover<g ref="char:EOLhyphen"/>ned the City better, nor revived more wholſom Laws, and reduced things methodically to their firſt ſtate; The ſevereſt puniſher of Fraud and Injuſtice, a moſt rigid exacter of all dues and rights belonging to the City, keeping a conſtant Inquiſition of all the abuſes and treſpaſſes com<g ref="char:EOLhyphen"/>mitted or ſuffered on its priviledges, neither fa<g ref="char:EOLhyphen"/>vour or affection (as we uſe to ſay) making him to connive at ſuch unlawful practiſes.</p>
+            <p>This indeed were a pleaſant Subject to run on with, however ſome particular men would put in their Spoakes, and tell us of ſome narrow concerns
+<pb n="8" facs="tcp:171688:5"/>
+               <!-- PDF PAGE 19 -->
+of their own, wherein they complain of injury and injuſtice done them; but theſe men conſider not that the ſtrict impartial execution of juſtice can<g ref="char:EOLhyphen"/>not be without ſome rigour, and juſtice being blind, cannot ſee where it lights. If there had been any fore-thoughted malice, any grudges or ill will, it were juſtly imputable; but on the con<g ref="char:EOLhyphen"/>trary, good for evil hath in ſome buſineſſes been rendred by him, and that alſo when he had power in his hands to do it very effectually.</p>
+            <p>To give an inſtance of this, though ſomewhat before he came to this Magiſtracy. 'Twas a gene<g ref="char:EOLhyphen"/>rous act of his in ſaving the Life of thoſe Two young men, condemned by the Powers uſurping, for the Tumult in <hi>London</hi> 1647. It is no kind of leſſening that Courteſie, to ſay they were Tray<g ref="char:EOLhyphen"/>tors that ſentenced them, and that he had been acceſſory to their Mu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther if they had dyed, he being then Sheriff; for then the Stream went ſtrong another way, and no ſuſpicion or fear in them of his Majeſties moſt happy Reſtitution, they thinking and taking themſelves to be faſt rooted in the Government.</p>
+            <p>Many more there were of this nature, and it is without queſtion, that his private benefits have exceeded his private injuries, though <hi>venit ad a<g ref="char:EOLhyphen"/>miſſas nullus amitus opes,</hi> and wrongs follow the Doer of them to the Grave: But if you weigh his publick benefactions, in his adminiſtration of his Mayoralty againſt thoſe petty injuries he did, their Lightneſſe as well as Trivialneſſe, will be ſo
+<pb n="9" facs="tcp:171688:5"/>
+               <!-- PDF PAGE 19 -->
+inconſiderable in the Ballance, that they will paſs for nothing. Having therefore paſſed this honou<g ref="char:EOLhyphen"/>rable place with commendation and general ap<g ref="char:EOLhyphen"/>plauſe, it were but juſt he ſhould receive ſome advantage from it, in recompence of that ho<g ref="char:EOLhyphen"/>nour and advantage he did it. Let plundering <hi>Iſaac Pennington</hi> expiate all the Contumelies done the King and his Government in the laſt 18 Maioral<g ref="char:EOLhyphen"/>ties; and let <hi>Andrews</hi> eſtate make up <hi>Iſaac</hi>'s bro<g ref="char:EOLhyphen"/>ken Fortunes to the <hi>Exchequer.</hi> The Authority once veſted in a good Magiſtrate (though per<g ref="char:EOLhyphen"/>haps an ill man) hath a kind of Sacredneſſe and Reverence in it, and the Ancients did uſe to offer up their <hi>Inſignia</hi> of Honour at the Temples of the Gods, at the expiration of their annual offices as Sacred to poſterity; 'tis true, this <hi>crimen laeſae Majeſtatis,</hi> hath profaned all that reſpect due to him, but who knows, if by the unanimous In<g ref="char:EOLhyphen"/>terceſſion, and Supplication of this City, whe<g ref="char:EOLhyphen"/>ther <hi>gratia placatae Majeſtatis,</hi> the King and his great Councel may not be pleaſed to pardon that great offence.</p>
+            <p>Let him at leaſt not fall helpleſſe or friendleſſe, as one that had not one good Action to ſpeak for him. It will be ſome Sweetning to that bitter Cup to find ſome pity ſhewed him, though peradven<g ref="char:EOLhyphen"/>ture it ſhould not avail him. The juſtice of the Law hath many times been lenified to the Suf<g ref="char:EOLhyphen"/>ferers of it, by the Humanity and Compaſſion of the people. 'Tis a double death to dye unpitied; 'tis an aenigmatical ſad Fate to be buryed in Mar<g ref="char:EOLhyphen"/>ble
+<pb n="10" facs="tcp:171688:6"/>
+               <!-- PDF PAGE 20 -->
+Hearts, and yet have no Sepulchre. It adds all the horrour of death, to ſee as many Tormentors as Spectators, and is a deſperate proſpect of the woful eſtate after this Life.</p>
+            <p>To move you the rather to this Compaſſion, (though no doubt you cannot be without ſome af<g ref="char:EOLhyphen"/>fections to him) view him in the laſt revolution, and you will find him no ſtickler againſt our pre<g ref="char:EOLhyphen"/>ſent happineſſe. He that was not againſt it, was clearly for it: Even in the amuſes of ſome of thoſe men, our Deliverance came like a Dream; but his Eyes were wide open, and he plainly foreſaw His Majeſties Return, and ſtood ſtill, till the wonders of his Reſtitution were paſt. He ingaged in no new Deſigns, counſels or practiſes, to re<g ref="char:EOLhyphen"/>tard or withſtand that bleſſed work; but with all Submiſſion and patience, expected the Reſults of Providence. There were few of that Temper or Moderation, in that critical juncture of Time, who yet, were in leſſe danger then himſelf; which afterwards amounted to a confidence of ſurren<g ref="char:EOLhyphen"/>dring himſelf according to the Proclamation, and putting himſelf within the danger of the Law.</p>
+            <p>What he did as a Member of the late Commit<g ref="char:EOLhyphen"/>tee of Safety, was rather of neceſſity then choice; neither then was the Kings Intereſt ſo diſcernible. Queſtionleſſe had he had that State inſight, to which he was neither capacitated nor experienced, he would have taken hold on occaſions Foretop, and redeemed himſelf by ſome ſignal ſeaſonable Demonſtration of Loyalty, as well as others in
+<pb n="11" facs="tcp:171688:6"/>
+               <!-- PDF PAGE 20 -->
+the ſame praedicament. Now he is <hi>foris factus,</hi> and that opportunity of retriving himſelf, quite loſt, and hath a ſad After game to play, and the Tables almoſt ſhut up, without a ſpeedy intervention and interpoſition betwixt his ſentence and approaching Death.</p>
+            <p>And in this laſt view of him we ſhall ſee him well worthy of our greateſt Commiſeration. How he hath behaved himſelf as to his Impriſonment, (in that place where he once commanded) with all Humility and fair Carriage; the Noble Sir <hi>John Robinſon,</hi> and his Warders and Officers, will give him a ſufficient and good Character. At that late ſtrange and rebellious Inſurrection in the City by the <hi>Fifth Monarchiſts,</hi> he profeſſed an utter deteſta<g ref="char:EOLhyphen"/>tion thereof, and not ſo much for the Butchery and Murder committed, as that the peace of the King<g ref="char:EOLhyphen"/>dome was thereby endangered, by ſuch a riotous wicked attempt: the danger and ſcandal brought by it on him and his Fellow Sufferers, to the acceleration of their ends he weighed not ſo much, being reſolved either living or dying to pray for the proſperity of the Kings Government.</p>
+            <p>He hath continued ever ſince his firſt reſtraint, a moſt ſtrict auſtere and mortified life, without any grudgings or repinings at theſe his ſad diſpenſa<g ref="char:EOLhyphen"/>tions, bearing with an even mind the loſſe of a conſiderable eſtate, beſides ſundry diſcomforts in his nere relations grieving exceſſively at his Con<g ref="char:EOLhyphen"/>dition; and a deeper wound can hardly be given to a man in miſery; ſo falls it out in the Extremes
+<pb n="12" facs="tcp:171688:7"/>
+               <!-- PDF PAGE 21 -->
+of Sorrow, that even our friends unvoluntarily ſhall contribute to the load of it. And if this con<g ref="char:EOLhyphen"/>dition be not matter of mercy what diſtreſſe ſhall find it?</p>
+            <p>Report hath taken up many things falſely againſt this perſon as of his unſupportable Pride, Cove<g ref="char:EOLhyphen"/>touſneſſe, <hi>&amp;c.</hi> Raiſed from his Pageantry Lord<g ref="char:EOLhyphen"/>ſhip conferred on him by <hi>Oliver,</hi> and his ſeveral rich places and offices, he went through all along the Uſurpation; but this reducement of him hath made it appear to the Contrary, his wealth not anſwering the ſum required to a Lord Maiors Eſtate, and his conſtant affability as well as his preſent humility convincing all men of his not being arrogant.</p>
+            <p>Enough might be ſaid of this in his praiſe, and queſtionleſs be preſſed more home and advantagi<g ref="char:EOLhyphen"/>ouſly by others who owe him greater kindneſſes if ſuch can be in this his Condition) in his behalf. The Author hereof hath only endevoured to diſ<g ref="char:EOLhyphen"/>charge, as far as his Mite would reach, an Obliga<g ref="char:EOLhyphen"/>tion to this afflicted: being willing if he were able (and if it would be taken) to ranſome him with Gold. However you have his Devoir, which he humbly ſubmits to Candid and Chriſtian Con<g ref="char:EOLhyphen"/>ſideration.</p>
+            <epigraph>
+               <q xml:lang="lat">Quem paenitet peccaſſe Paene eſt innocens.</q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171688:7"/>
+            <!-- PDF PAGE 21 -->
+         </div>
+      </body>
+   </text>
+</TEI>
